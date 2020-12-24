@@ -1,3 +1,3 @@
 # MedicationTracker-App
 
-![Img](https://imgur.com/a/NqoInbA.jpg)
+![Img](https://imgur.com/a/NqoInbA.png)

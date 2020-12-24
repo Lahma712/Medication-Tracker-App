@@ -23,5 +23,8 @@ After clicking 'Save', the app updates the remaining days for each medication.
 ![img](https://imgur.com/JsGjG0n.png)
 
 
-You can change your treatment plan in the settings.
+You can change your treatment plan as well as initialize the app in the settings.
+To initialize, enter your treatment plan (Names, Pills/Box, Pills/Day) and how many pills you already possess
+for each medication (initial number of pills). Finally, enter your current unix timestamp. The app will take that timestamp
+as a reference to calculate how much medication remains, everytime you open the app.
 ![img](https://imgur.com/wm3T3dk.png)

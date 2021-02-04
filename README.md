@@ -16,7 +16,7 @@ run out:
 
 
 You can use the '+' buttons to restock your medication in terms of how many packs you bought. 
-After clicking 'Save', the app updates the remaining days for each medication::
+After clicking 'Save', the app updates the remaining days for each medication:
 
 <img src="https://imgur.com/0TrAqvf.png" width="300" />       <img src="https://imgur.com/JsGjG0n.png" width="300" />
 

@@ -31,3 +31,7 @@ for each medication (initial number of pills). Finally, enter your current unix 
 as a reference to calculate how much medication remains, everytime you open the app.
 
 <img src="https://imgur.com/wm3T3dk.png" width="300" />
+
+
+<b>Dependencies:<b/>
+  -CompactCalendarView by Sundeepk (https://github.com/SundeepK/CompactCalendarView)

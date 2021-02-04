@@ -2,7 +2,7 @@
 
 
 This app is designed for people who need to take a lot of
-different medications everyday (like chronically ill people). You enter your
+different medication everyday (like chronically ill people). You enter your
 treatment plan through the settings and the app will then keep track of every medication and
 how many days it will still last, updating it automatically every day. I wrote this application in <b>Java</b>, using <b>Android Studio</b>.
 

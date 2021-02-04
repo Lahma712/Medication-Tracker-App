@@ -8,7 +8,7 @@ how many days it will still last, updating it automatically every day. This make
 when to go to the pharmacy, to restock on your medication. The app works completely offline so no internet
 connection is required.
 
-![img](https://imgur.com/LMArYgu.png = 500x1000)
+![img](https://imgur.com/LMArYgu.png =500x1000)
 
 You can swipe through the different months on the calendar.
 Every colored point corresponds to the day where that specific medication will

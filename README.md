@@ -33,5 +33,7 @@ as a reference to calculate how much medication remains, everytime you open the 
 <img src="https://imgur.com/wm3T3dk.png" width="300" />
 
 
-<b>Dependencies:<b/>
-  -CompactCalendarView by Sundeepk (https://github.com/SundeepK/CompactCalendarView)
+<b>Credits:<b/>
+  
+  The calendar module that I used is the "CompactCalendarView", by SundeepK (https://github.com/SundeepK/CompactCalendarView), 
+  which has shown to be a more elegant solution than the proprietary Android Studio CalendarView.

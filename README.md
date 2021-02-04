@@ -1,4 +1,4 @@
-# MedicationTracker
+# MedTracker
 
 
 This app is designed for people who need to take a lot of

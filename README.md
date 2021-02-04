@@ -12,13 +12,13 @@ You can swipe through the different months on the calendar.
 Every colored point corresponds to the day where that specific medication will
 run out:
 
-<img src="https://imgur.com/LMArYgu.png" width="300" />  <img src="https://imgur.com/0iXvw0H.png" width="300" />
+<img src="https://imgur.com/LMArYgu.png" width="300" />       <img src="https://imgur.com/0iXvw0H.png" width="300" />
 
 
 You can use the '+' buttons to restock your medication in terms of how many packs you bought. 
 After clicking 'Save', the app updates the remaining days for each medication::
 
-<img src="https://imgur.com/0TrAqvf.png" width="300" /> <img src="https://imgur.com/JsGjG0n.png" width="300" />
+<img src="https://imgur.com/0TrAqvf.png" width="300" />       <img src="https://imgur.com/JsGjG0n.png" width="300" />
 
 
 
